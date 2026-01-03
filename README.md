@@ -45,28 +45,6 @@
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
 | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |  |
 
-## 📊 GitHub Galaxy Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xtremer25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtremer25&layout=compact&langs_count=7&theme=radical"/>
-
-  <!-- Streak & WakaTime -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Xtremer25&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xtremer25&layout=bar&theme=radical"/>
-
-</div>
-
-## 🔥 Current Coding Streak
-![Sayed Mirchoni's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Xtremer25&theme=radical&border=0A0A0A)
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xtremer25&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7"/>
-</div>
-
 ## 🌐 Find Me Around The Web
 <div align="center" style="margin: 20px 0;">
   <a href="https://instagram.com/Xtremer_25"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
