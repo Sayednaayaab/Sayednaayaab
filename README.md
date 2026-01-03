@@ -29,32 +29,15 @@
 </tr>
 </table>
 
-[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-builder-xtremer25.vercel.app/)
-[![📂 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xtremer25/resume-builder)
+[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)]([https://resume-builder-xtremer25.vercel.app/](https://resume-savvy.vercel.app/))
+[![📂 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Xtremer25/resume-builder](https://github.com/Sayednaayaab/resume-savvy.git))
 
 </div>
 
-### 2. **REST API with MySQL** 🗄️
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=social&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=social&logo=mysql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Production-ready CRUD API for Users, Products, Sales with input validation</b></td>
-</tr>
-</table>
-
-[![🌐 API Docs](https://img.shields.io/badge/Postman-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)](http://localhost:3000/api/docs)
-[![📂 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xtremer25/rest-api-mysql)
 
 </div>
 
-### 3. **E-Commerce Platform** 🛒
+### 2. **E-Commerce Platform** 🛒
 <div align="center">
 <table>
 <tr>
@@ -74,7 +57,7 @@
 
 </div>
 
-### 4. **Ed-Tech Learning Platform** 📚
+### 3. **Ed-Tech Learning Platform** 📚
 <div align="center">
 <table>
 <tr>
@@ -94,7 +77,7 @@
 
 </div>
 
-### 5. **Android Membership Tracker** 📱
+### 4. **Health Care Website** 📱
 <div align="center">
 <table>
 <tr>
@@ -109,7 +92,7 @@
 </tr>
 </table>
 
-[![📱 APK Download](https://img.shields.io/badge/APK_Download-FF6B6B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Xtremer25/android-membership-tracker/releases)
+[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://edtech-xtremer25.netlify.app/)
 [![📂 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xtremer25/android-membership-tracker)
 
 </div>
