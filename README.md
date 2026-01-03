@@ -49,7 +49,4 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
----
-![Visitors](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=3&icon=5)
-
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
