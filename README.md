@@ -1,5 +1,4 @@
 # 💫 Sayed Mirchoni
-![Sayed Mirchoni](https://img.shields.io/badge/Sayed%20Mirchoni-1e3a8a?style=for-the-badge&logo=dev-dot-to&logoColor=ffffff&labelColor=0c4a6e&colorStart=1e40af&colorMiddle=1d4ed8&colorEnd=1e3a8a)
 
 # 💫 About Me:
 🔭 I'm currently working on **Dynamic Web Applications**  
