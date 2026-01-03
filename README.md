@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Title with Gradient -->
-# <span style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #f9ca24, #f0932b); background-size: 400% 400%; animation: gradientShift 3s ease-in-out infinite;">Sayed Mirchoni</span>
+<span style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #f9ca24, #f0932b); background-size: 400% 400%; animation: gradientShift 3s ease-in-out infinite;">Sayed Mirchoni</span>
 <br><br>
 
 <!-- Particle Background Effect -->
