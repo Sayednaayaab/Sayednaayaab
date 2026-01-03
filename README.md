@@ -29,7 +29,7 @@ const amithProfile = {
     name: "Sayed Mirchoni",
     role: "Software Engineer",
     location: "🇮🇳 India",
-    education: "B.Tech in Computer Science",
+    education: "B.E in Computer Science",
     
     passions: {
         coding: ["Web Development", "System Design", "Cloud Architecture"],
