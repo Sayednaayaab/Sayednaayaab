@@ -32,13 +32,13 @@ const amithProfile = {
     education: "B.E in Computer Science",
     
     passions: {
-        coding: ["Web Development", "System Design", "Cloud Architecture"],
-        interests: ["AI/ML", "Blockchain", "Open Source"],
-        hobbies: ["Reading Tech Blogs", "Building Side Projects"]
+        coding: ["Web Development", "System Design", "Software developer"],
+        interests: ["AI/ML", "Android", "Open Source"],
+        hobbies: ["Building Side Projects","Video Editing"]
     },
     
     currentFocus: {
-        learning: "Advanced Kubernetes & Service Mesh",
+        learning: "Advanced Web services",
         building: "Scalable Microservices Platform",
         exploring: "Edge Computing & Serverless",
         improving: "System Design & Architecture Skills"
@@ -88,17 +88,6 @@ console.log("Let's build something amazing together! 💻✨");
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
-- ☁️ **AWS Services** - EC2, S3, Lambda, RDS
-- 🐳 **Docker** - Containerization expert
-- ☸️ **Kubernetes** - Orchestration & deployment
-- 🔄 **CI/CD** - GitHub Actions, Jenkins
-- 📊 **Monitoring** - Prometheus, Grafana
-- 🛡️ **Security** - Best practices & compliance
-
-</td>
-<td width="50%" valign="top">
-
 ### 🧩 Additional Skills
 - 🏗️ **System Design** - Scalable architectures
 - 🧪 **Testing** - Unit, Integration, E2E
@@ -130,28 +119,19 @@ console.log("Let's build something amazing together! 💻✨");
 ### 🎨 Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -165,11 +145,9 @@ console.log("Let's build something amazing together! 💻✨");
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🧪 Testing & Tools
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -353,23 +331,6 @@ Constantly learning, sharing knowledge, and contributing to the developer commun
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://blog.amithsulakhe.dev)
-
----
-
-<br>
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎖️ Certification | 🏢 Provider | 📅 Year |
-|------------------|-------------|---------|
-| AWS Certified Solutions Architect | Amazon Web Services | 2024 |
-| Certified Kubernetes Administrator | CNCF | 2024 |
-| Google Cloud Professional Architect | Google Cloud | 2023 |
-| Microsoft Azure Developer Associate | Microsoft | 2023 |
-
-</div>
 
 ---
 
