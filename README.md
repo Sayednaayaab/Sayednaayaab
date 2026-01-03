@@ -1,4 +1,6 @@
-![Sayed Mirchoni](https://img.shields.io/badge/Sayed%20Mirchoni-1E3A8A?style=for-the-badge&logo=dev.to&logoColor=ffffff&labelColor=0C4A6E&colorStart=1E40AF&colorMiddle=3B82F6&colorEnd=1D4ED8)
+<div align="center">
+<img src="https://img.shields.io/badge/Sayed%20Mirchoni-1E3A8A?style=for-the-badge&logo=dev.to&logoColor=ffffff&labelColor=0C4A6E&colorStart=1E40AF&colorMiddle=3B82F6&colorEnd=1D4ED8" alt="Sayed Mirchoni" width="100%" style="margin: 5px 0; max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(30,58,138,0.3);"/>
+</div>
 
 # 💫 About Me:
 🔭 I'm currently working on **Dynamic Web Applications**  
