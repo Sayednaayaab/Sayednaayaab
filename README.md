@@ -1,18 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on Dynamic Web Projects<br>👯 I’m looking to collaborate on Ai-powered Web applications<br>🌱 I’m currently learning Firebase<br>💬 Ask me about React.js, Python, Java<br>⚡ 1 Cup of coffee for every 2 hours of coding
+<div align="center">
 
+# 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Sayed+Mirchoni;Full-Stack+Developer;React+%26+Firebase+Expert;Python+%26+Java+Enthusiast;Dynamic+Web+Projects;1+Cup+Coffee+%F0%9F%95%A5+Every+2+Hours&font=Fira%20Code&center=true&pause=1000&size=28&duration=4000" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xtremer_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sayed-mirchoni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.naayaab2004@gmail.com) 
+🔭 Working on Dynamic Web Projects  
+👯 Open to collaborate on AI-powered Web apps  
+🌱 Currently learning Firebase  
+💬 Ask about React.js, Python, Java  
+⚡ 1 Cup of coffee ☕ for every 2 hours of coding  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sayednaayaab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sayednaayaab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayednaayaab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/Xtremer_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sayed-mirchoni/) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:naayaab2004@gmail.com) 
+
+## 💻 Tech Stack
+<!-- Animated SVG Badges with Pulse/Glow -->
+<svg width="800" height="auto" xmlns="http://www.w3.org/2000/svg">
+<style>
+.badge { animation: pulse-glow 2s ease-in-out infinite alternate; transition: transform 0.3s; }
+.badge:hover { transform: scale(1.1); animation: glow 1s infinite; }
+@keyframes pulse-glow { 0% { filter: drop-shadow(0 0 5px currentColor); } 100% { filter: drop-shadow(0 0 15px currentColor); } }
+@keyframes glow { 0%, 100% { filter: drop-shadow(0 0 10px currentColor); } 50% { filter: drop-shadow(0 0 20px currentColor); } }
+</style>
+<g class="badge" fill="#0599C"><a xlink:href="https://c.com"><rect x="0" y="0" width="80" height="25" rx="5" fill="#0599C"/><text x="40" y="17" font-size="12" text-anchor="middle" fill="white">C</text></a></g>
+<!-- Repeat for others with unique colors; simplified here - use shields.io for base SVGs and add <style> -->
+<!-- Full list: Add similar <g> for CSS3, HTML5, Java, JS, Kotlin, Python, etc. Download SVGs from shields.io, embed & animate -->
+</svg>
+
+<!-- Standard badges with hover via links -->
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!-- GitHub Stats - Dynamic -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xtremer25&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xtremer25&layout=compact&theme=radical)
+
+<!-- Snake Animation -->
+<img src="https://github.com/Xtremer25/Xtremer25/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sayednaayaab&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Xtremer25&label=ranebennur.dev&color=1&icon=1&include_date=1&date_grain=month)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM -->
+</div>
