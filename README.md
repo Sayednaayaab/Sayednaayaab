@@ -7,6 +7,9 @@
 💬 Ask me about **React.js, Python, Java**  
 ⚡ **1 cup of coffee for every 2 hours of coding**
 
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sayed%20Mirchoni-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-theta-lilac.vercel.app/)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/xtremer_25) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-mirchoni) 
@@ -47,6 +50,5 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
