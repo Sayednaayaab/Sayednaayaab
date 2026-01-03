@@ -62,7 +62,3 @@
   <p>🤝 Open to amazing **collaboration opportunities** | 📧 Reach out via email!</p>
 </div>
 
-![snake gif](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code_snake.gif)
-
-*Last Updated: Jan 2026* | **Proudly created from Mysuru, India** 🇮🇳
-
