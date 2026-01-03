@@ -12,7 +12,7 @@
 ## 🌟 Featured Projects
 
 ### 1. **Resume Builder & Analyzer** 🛠️
-[![Resume Builder]([https://img.shields.io/badge/Resume_Builder-React%20%2B%20Node.js-brightgreen?style=for-the-badge&logo=react&logoColor=white](https://resume-savvy.vercel.app/))]([https://github.com/Xtremer25/resume-builder](https://github.com/Sayednaayaab/resume-savvy.git))
+[![Resume Builder](https://img.shields.io/badge/Resume_Builder-React%20%2B%20Node.js-brightgreen?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Xtremer25/resume-builder)
 - Full-stack ATS-friendly resume creator with Google Auth
 - Admin analytics dashboard & PDF export functionality
 - **Blue/White modern UI** – Responsive across all devices [memory:5]
