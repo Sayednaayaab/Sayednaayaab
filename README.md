@@ -1,4 +1,3 @@
-# 💫 Sayed Mirchoni
 ![Sayed Mirchoni](https://img.shields.io/badge/Sayed%20Mirchoni-1E3A8A?style=for-the-badge&logo=dev.to&logoColor=ffffff&labelColor=0C4A6E&colorStart=1E40AF&colorMiddle=3B82F6&colorEnd=1D4ED8)
 
 # 💫 About Me:
@@ -49,16 +48,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-# 📊 GitHub Stats:
-<div align="center">
-  <!-- Replace 'yourusername' with your actual GitHub username -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
-</div>
-
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-</div>
 
 ---
 ![Visitors](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=3&icon=5)
