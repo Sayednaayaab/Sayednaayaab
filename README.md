@@ -17,23 +17,17 @@
 - Admin analytics dashboard & PDF export functionality
 - **Blue/White modern UI** – Responsive across all devices [memory:5]
 
-### 2. **REST API with MySQL** 🗄️
-[![REST API](https://img.shields.io/badge/REST_API-MySQL%20%2B%20Express-orange?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Xtremer25/rest-api-mysql)
-- Complete CRUD operations for Users, Employees, Products, Sales
-- Input validation, error handling, and secure endpoints [memory:3]
-- Production-ready backend architecture [memory:2]
-
-### 3. **E-Commerce Platform** 🛒
+### 2. **E-Commerce Platform** 🛒
 - Full-stack shopping experience with cart & payment integration
 - Modern React frontend + Node.js/Express backend
 - Responsive design with TailwindCSS & real-time updates
 
-### 4. **Ed-Tech Learning Platform** 📚
+### 3. **Ed-Tech Learning Platform** 📚
 - Video/notes upload & download system [memory:7]
 - **Astonishing UI** with rich learning content management
 - User-friendly features that make education lovable [memory:6]
 
-### 5. **Android Membership Tracker** 📱 [memory:8]
+### 4. **Health Care Website**
 - Native Android app for membership management
 - Local database with offline sync capabilities
 
