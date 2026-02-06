@@ -8,98 +8,59 @@
 
 </div>
 
----
 
-## 🧑‍💼 Engineer Profile (FAANG / Startup Optimized)
+# 💫 About Me:
+🔭 I'm currently working on **Dynamic Web Applications**  
+👯 I'm looking to collaborate on **AI-Powered Web apps**  
+🌱 I'm currently learning **Firebase**  
+💬 Ask me about **React.js, Python, Java**  
+⚡ **1 cup of coffee for every 2 hours of coding**
 
-- 💻 **Full Stack Software Engineer**
-- ⚙️ Experience with **scalable web applications**
-- 🧠 Strong in **Data Structures & Algorithms**
-- ☁️ Hands-on with **APIs, Firebase, Cloud workflows**
-- 🚀 Startup mindset + FAANG engineering discipline
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sayed%20Mirchoni-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-theta-lilac.vercel.app/)
 
-**Keywords (ATS Boost):**  
-`React.js, JavaScript, TypeScript, Python, Node.js, REST API, Firebase, SQL, Git, GitHub, Agile, SDLC, Problem Solving, OOP, System Design, CI/CD`
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/xtremer_25) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-mirchoni) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:naayaab2004@gmail.com)
 
----
+# 💻 Tech Stack:
+## 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🎮 Cyberpunk Glitch Project Showcase
+## ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<div align="center">
+## 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30%" />
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30%" />
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" />
+## ☁️ Cloud & DevOps
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-</div>
+## 📊 Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=Scipy&logoColor=white)
 
-| Project | Tech Stack | Impact |
-|------|-----------|--------|
-| **AI Travel Planner** | React, Python, APIs | Reduced travel planning time by 60% |
-| **AI Chatbot Platform** | Flask, NLP, Firebase | Real-time intelligent responses |
-| **Analytics Dashboard** | React, Charts, REST | Live data visualization |
+## 📱 Mobile & Others
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black)
 
----
-
-## 📄 Resume Preview (Auto-Embedded)
-
-<div align="center">
-
-📎 **View Resume (Live Preview)**  
-<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/your-username/your-repo/main/assets/Sayed_Mirchoni_Resume.pdf">
-<img src="https://img.shields.io/badge/📄_View_Resume-0ea5e9?style=for-the-badge&logo=googledocs&logoColor=white"/>
-</a>
-
-</div>
-
-> 🔥 Recruiters can view your resume **without downloading**
-
----
-
-## ⚙️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-6366f1?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-22d3ee?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![Node](https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-facc15?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git)
-![Firebase](https://img.shields.io/badge/Firebase-facc15?style=for-the-badge&logo=firebase)
-
----
-
-## 📊 Engineering Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayed-mirchoni&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayed-mirchoni&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sayed-mirchoni)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel)](https://personal-portfolio-theta-lilac.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail)](mailto:naayaab2004@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 Cyberpunk Engineer | FAANG Ready | Startup Proven
-⭐ Star the repos — let’s build the future.
-
-</div>
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
