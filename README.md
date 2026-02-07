@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:a855f7&height=260&section=header&text=Sayed%20Mirchoni&fontSize=60&fontColor=22d3ee&animation=twinkling"/>
 
 <!-- 🎮 GLITCH TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=800&color=22D3EE&center=true&vCenter=true&width=1000&lines=FAANG-Ready+Full+Stack+Engineer;AI+%7C+Web+%7C+System+Design;React+%7C+Node+%7C+Python+%7C+Firebase;Building+Scalable+Production+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=800&color=22D3EE&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%7C+Web+%7C+System+Design;React+%7C+Node+%7C+Python+%7C+Firebase;Building+Scalable+Production+Systems"/>
 
 </div>
 
